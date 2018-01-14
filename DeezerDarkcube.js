@@ -14,21 +14,14 @@
 // @include       https://*.deezer.com/*
 // @run-at        document-start
 // @version       0.20171212023608
-// ==/UserScript==
-// ==OpenUserJS==
 // @exclude *
-// @name          Deezer DarkCube
-// @version       0.20171212023608
-// @description	  It's my "dark" version of deezer.com for users who like inverted colors that are easier on your eyes.
 // @license MIT
 // @copyright	2017, cubedj (https://twitter.com/cubedj)
-// @icon https://github.com/cubedj/GM-Scripts/blob/master/ico/deezer.png
 // @homepageURL  https://userstyles.org/styles/142184
 // @supportURL https://userstyles.org/styles/142184
-// @updateURL https://openuserjs.org/meta/cubedj/deezerdarkcube.meta.js
-// @author cubedj
+// @updateURL https://openuserjs.org/meta/cubedj/deezer_darkcube.meta.js
 // @collaborator cubedj
-// ==/OpenUserJS==
+// ==/UserScript==
 (function() {var css = "";
 if (false || (document.domain == "deezer.com" || document.domain.substring(document.domain.indexOf(".deezer.com") + 1) == "deezer.com"))
 	css += [
