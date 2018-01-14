@@ -19,7 +19,7 @@
 // @copyright	2017, cubedj (https://twitter.com/cubedj)
 // @homepageURL  https://userstyles.org/styles/142184
 // @supportURL https://userstyles.org/styles/142184
-// @updateURL https://openuserjs.org/meta/cubedj/deezer_darkcube.meta.js
+// @updateURL https://openuserjs.org/meta/cubedj/Deezer_DarkCube.meta.js
 // @collaborator cubedj
 // ==/UserScript==
 (function() {var css = "";
