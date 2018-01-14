@@ -22,6 +22,10 @@
 // @description	  It's my "dark" version of deezer.com for users who like inverted colors that are easier on your eyes.
 // @license MIT
 // @copyright	2017, cubedj (https://twitter.com/cubedj)
+// @icon https://github.com/cubedj/GM-Scripts/blob/master/ico/deezer.png
+// @homepageURL  https://userstyles.org/styles/142184
+// @supportURL https://userstyles.org/styles/142184
+// @updateURL https://openuserjs.org/meta/cubedj/deezerdarkcube.meta.js
 // @author cubedj
 // @collaborator cubedj
 // ==/OpenUserJS==
