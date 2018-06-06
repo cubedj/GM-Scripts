@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Reddit Icon Redirect
 // @namespace    https://github.com/cubedj/GM-Scripts
-// @version      1.0
-// @description  Redirects FB Feed links from Top Stories to Most Recent
+// @version      1.2
+// @description  Simple script that changes the favicon of Reddit for a custom one...
 // @author       cubedj <djcube21@gmail.com>
 // @include      https://www.reddit.com/*
 // @grant        none
